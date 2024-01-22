@@ -2,6 +2,8 @@
 
 Welcome to the "100 Days of Data Science and Machine Learning Projects" repository! This is a personal learning journey where I embark on a 100-day challenge to enhance my data science, machine learning, and deep learning skills. Each day, I will complete a project focusing on a wide range of topics, from beginner-friendly projects to advanced ones, using Kaggle datasets and various machine learning algorithms.
 
+# ``` THIS REPO IS IN PROGRESS ... ``` 🚀 👨‍💻
+
 ## Motivation
 
 The primary motivation behind this project is the continuous pursuit of learning and improving my knowledge in the field of data science and machine learning. The world of technology is ever-evolving, and staying updated with the latest trends, techniques, and tools is crucial. This 100-day challenge serves as a structured approach to hands-on learning, allowing me to apply theoretical concepts to real-world projects, reinforce my skills, and build a comprehensive portfolio.
@@ -11,6 +13,16 @@ The primary motivation behind this project is the continuous pursuit of learning
 The projects are organized in sets of 10, covering diverse areas such as data analysis, image classification, natural language processing, and more. Each project includes a Kaggle dataset, tasks breakdown, introduction story, and a variety of algorithms and comparison measures to explore different approaches.
 
 Feel free to explore each project, review the code, and use it as a resource for your own learning journey. Whether you're a beginner looking to get started or an experienced practitioner seeking to refine your skills, there's something here for everyone.
+
+## Progress
+
+GitHub: https://github.com/themlphdstudent/100DaysofMachineLearningProjects
+
+Instagram: https://www.instagram.com/@themlphdstudent
+
+Medium: https://medium.com/@themlphdstudent
+
+Apart from that, all notebooks are available on my [kaggle](https://www.kaggle.com/themlphdstudent) or [Kaggle GitHub repo](https://github.com/themlphdstudent/kaggle). Make sure you subscribe and give star to the repository.
 
 ## Usage
 
